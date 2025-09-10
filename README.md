@@ -10,5 +10,6 @@
 > ***Хочешь сделать хорошо - сделай всё сам.***
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com//Markdown/master/picture/frog.png">
+  <img width="400" height="250" src="https://github.com/Alice1804/Bongo/master/picture/frog.png">
 </p>
+
