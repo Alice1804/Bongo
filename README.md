@@ -10,6 +10,7 @@
 > ***Хочешь сделать хорошо - сделай всё сам.***
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/Alice1804/Bongo/main/image/frog.png">
+  <img width="400" height="250" src="https://github.com/Alice1804/Bongo/blob/main/image/frog.png">
 </p>
+
 
